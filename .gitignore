@@ -1,7 +1,7 @@
 .py[cod]
-currency_conversion/settings/local.py
-currency_conversion/settings/local2.py
-db.sqlite
+share/
+db.sqlite3
+
 .DS_Store
 bin/
 include/
