@@ -1,4 +1,4 @@
-# fyle
+# bankdetail
 curl -X POST -d "username=fyle&password=fyle@123" https://bankdetailapi.herokuapp.com/api/api-token-auth/
 
 you will get a token as follows
